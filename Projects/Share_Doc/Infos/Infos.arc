@@ -1,0 +1,1 @@
+Ce projet a été realisé pendant le stage de deuxième année de BTS SIO. L'équipe pour la réalisation du site était composer de trois personnes : Mr. Courvasier Armand, Mr. Galais Sebastien, Mr. Deudon Pierre. Le site a pour but de donner un accès exterieur au fichiers locaux du lycée/campus. <br> Client : Mr.Sauve(Administraeur reseau), Mr.Bayol(Directeur).

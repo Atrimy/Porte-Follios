@@ -1,0 +1,1 @@
+Mon site personnel. Portofolio, CV, etc .. Vous y retrouverez aussi mes projets et mes comptes de divers sites. Le design du site a été réalisé grâce à des templates de "Bootstrap", la partie fonctionelle et PHP ont été faites par moi-même.

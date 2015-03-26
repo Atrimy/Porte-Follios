@@ -1,0 +1,68 @@
+body {
+    font-family: Verdana; 
+    background-image: url(../Images/BackGround.jpg);
+    background-attachment: fixed;
+    -webkit-background-size: cover; /* pour Chrome et Safari */
+    -moz-background-size: cover; /* pour Firefox */
+    -o-background-size: cover; /* pour Opera */
+    background-size: cover;
+}
+
+.titre {
+    border-bottom: 4px solid #ac0000;
+    color: #FFFFFF;
+    width: auto;
+    padding: 10px;
+}
+
+.stylediv { 
+    margin: 10px;
+    background: #6A6A6A;
+    padding: 15px;
+    border-radius: 10px;
+    border-bottom: 3px solid #000000;
+    border-right: 4px solid #000000;
+}
+.styledivAccueil { 
+    margin: 10px;
+    background: #6A6A6A;
+    border-radius: 10px;
+    border-bottom: 3px solid #000000;
+    border-right: 4px solid #000000;
+}
+
+.error {
+    color: #ac0000;
+    text-decoration-color: #ac0000;
+    margin: 10px;
+    background: #1f1f1f;
+    border-radius: 10px;
+    font-size: 75%;
+    padding:5px 5px 5px 5px;
+}
+
+.labellogin {
+    cursor: pointer;
+    display: block;
+    width: 185px;
+    float:left;
+}
+
+
+.fond2ndplan {
+    width: 400px;
+    margin: auto;
+    background: #2B2B2B;
+    padding: 3px;
+    border-radius: 20px;
+    border: solid;
+    border-color: #1A1A1A;
+}
+
+.arrondi {
+  background: url("bouton.gif");
+  border: none;
+  width: 160px;
+  height: 40px;
+  cursor: pointer;
+}

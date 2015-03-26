@@ -1,0 +1,1 @@
+Ceci est la description par default, elle apparait lorsque le projets n'a pas de description. Il se peut que ce texte soit accompagner d'une image "No Picture", qui indique que acune image du site ou de l'application n'est disponible.
